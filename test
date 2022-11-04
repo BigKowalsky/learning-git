@@ -1,5 +1,5 @@
 public class Kodilla {
    public static void main (String[] args) {
-       System.out.println("Oto mój pierwszy kod!");
+       System.out.println("This is my first code!");
    }
 }
